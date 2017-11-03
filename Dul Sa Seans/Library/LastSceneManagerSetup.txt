@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Main.unity
+- path: C:/Users/Claedoh/Documents/GitHub/HockeyVR/HockeyVR/Assets/mainScene.unity
   isLoaded: 1
   isActive: 1
