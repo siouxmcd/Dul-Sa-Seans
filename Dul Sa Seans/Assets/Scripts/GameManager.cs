@@ -43,26 +43,26 @@ public class GameManager : MonoBehaviour {
                     checkHit(hit.collider.gameObject, i);
                 }
             }
-            else
-            {
-                //Debug.Log("Where's player 1?");
-            }
-            if (player2.activeInHierarchy)
-            {
-                RaycastHit hit;
-                Ray ray = new Ray(lights[i].transform.position, player2.transform.position - lights[i].transform.position);
-                Debug.DrawRay(ray.origin, ray.direction * 100, Color.green);
-                if (Physics.Raycast(ray, out hit, 100))
-                {
-                    dist[i] = hit.distance;
-                    //Debug.Log(dist[i]);
-                    checkHit(hit.collider.gameObject, i);
-                }
-            }
-            else
-            {
-                //Debug.Log("Where's player 2?");
-            }
+            //else
+            //{
+            //    //Debug.Log("Where's player 1?");
+            //}
+            //if (player2.activeInHierarchy)
+            //{
+            //    RaycastHit hit;
+            //    Ray ray = new Ray(lights[i].transform.position, player2.transform.position - lights[i].transform.position);
+            //    Debug.DrawRay(ray.origin, ray.direction * 100, Color.green);
+            //    if (Physics.Raycast(ray, out hit, 100))
+            //    {
+            //        dist[i] = hit.distance;
+            //        //Debug.Log(dist[i]);
+            //        checkHit(hit.collider.gameObject, i);
+            //    }
+            //}
+            //else
+            //{
+            //    //Debug.Log("Where's player 2?");
+            //}
         }
         foreach (GameObject light in lights)
         {
