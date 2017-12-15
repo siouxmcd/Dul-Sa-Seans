@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 10dda2bf7a4aea747975558b737f0723
+timeCreated: 1509734893
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera01
+    100002: Camera01.Target
+    100004: H_curve
+    100006: H_end
+    100008: Harp
+    100010: //RootNode
+    100012: mark01
+    100014: Mark02
+    100016: Mark03
+    100018: Mark04
+    100020: Mark05
+    100022: Mark06
+    100024: Mark07
+    100026: Mark08
+    100028: Mark09
+    100030: Mark10
+    100032: Mark11
+    100034: Mark12
+    100036: Mark13
+    100038: Mark14
+    100040: Mark15
+    100042: Mark16
+    100044: Mark17
+    100046: Mark18
+    100048: Mark19
+    100050: Mark20
+    100052: Mark21
+    100054: Mark22
+    100056: Mark23
+    100058: Mark24
+    100060: Mark25
+    100062: Mark26
+    100064: Mark27
+    100066: Mark28
+    100068: Mark29
+    100070: Mark30
+    100072: 'Nut01 '
+    100074: 'Nut02 '
+    100076: 'Nut03 '
+    100078: 'Nut04 '
+    100080: Omni01
+    100082: Omni02
+    100084: Omni03
+    100086: Omni04
+    100088: peg01
+    100090: peg02
+    100092: peg02 1
+    100094: peg03
+    100096: peg04
+    100098: peg05
+    100100: peg06
+    100102: peg08
+    100104: peg09
+    100106: peg10
+    100108: peg11
+    100110: peg12
+    100112: peg13
+    100114: peg14
+    100116: peg15
+    100118: peg16
+    100120: peg17
+    100122: peg18
+    100124: peg19
+    100126: peg20
+    100128: peg21
+    100130: peg22
+    100132: peg23
+    100134: peg24
+    100136: peg25
+    100138: peg26
+    100140: peg27
+    100142: peg28
+    100144: peg29
+    100146: peg30
+    100148: peg_brd
+    100150: Pillar
+    100152: Pillar_d
+    100154: S01
+    100156: S02
+    100158: S03
+    100160: S04
+    100162: S05
+    100164: S06
+    100166: S07
+    100168: S08
+    100170: S09
+    100172: S10
+    100174: S11
+    100176: S13
+    100178: S14
+    100180: S15
+    100182: S16
+    100184: S17
+    100186: S18
+    100188: S19
+    100190: S20
+    100192: S21
+    100194: S22
+    100196: S23
+    100198: S24
+    100200: S25
+    100202: S26
+    100204: S27
+    100206: S28
+    100208: S29
+    100210: S30
+    100212: S_board
+    100214: S_box
+    100216: S_edge
+    100218: S_mid
+    100220: S_top
+    100222: Spot01
+    100224: Spot01.Target
+    100226: Stand01
+    100228: Stand02
+    100230: Stand03
+    100232: Stand04
+    100234: String12
+    100236: t_ peg01
+    100238: t_ peg02
+    100240: t_ peg03
+    100242: t_ peg04
+    100244: t_ peg05
+    100246: t_ peg06
+    100248: t_ peg07
+    100250: t_ peg08
+    100252: t_ peg09
+    100254: t_ peg10
+    100256: t_ peg11
+    100258: t_ peg12
+    100260: t_ peg13
+    100262: t_ peg14
+    100264: t_ peg15
+    100266: t_ peg16
+    100268: t_ peg17
+    100270: t_ peg18
+    100272: t_ peg19
+    100274: t_ peg20
+    100276: t_ peg21
+    100278: t_ peg22
+    100280: t_ peg23
+    100282: t_ peg24
+    100284: t_ peg25
+    100286: t_ peg26
+    100288: t_ peg27
+    100290: t_ peg28
+    100292: t_ peg29
+    100294: t_ peg30
+    400000: Camera01
+    400002: Camera01.Target
+    400004: H_curve
+    400006: H_end
+    400008: Harp
+    400010: //RootNode
+    400012: mark01
+    400014: Mark02
+    400016: Mark03
+    400018: Mark04
+    400020: Mark05
+    400022: Mark06
+    400024: Mark07
+    400026: Mark08
+    400028: Mark09
+    400030: Mark10
+    400032: Mark11
+    400034: Mark12
+    400036: Mark13
+    400038: Mark14
+    400040: Mark15
+    400042: Mark16
+    400044: Mark17
+    400046: Mark18
+    400048: Mark19
+    400050: Mark20
+    400052: Mark21
+    400054: Mark22
+    400056: Mark23
+    400058: Mark24
+    400060: Mark25
+    400062: Mark26
+    400064: Mark27
+    400066: Mark28
+    400068: Mark29
+    400070: Mark30
+    400072: 'Nut01 '
+    400074: 'Nut02 '
+    400076: 'Nut03 '
+    400078: 'Nut04 '
+    400080: Omni01
+    400082: Omni02
+    400084: Omni03
+    400086: Omni04
+    400088: peg01
+    400090: peg02
+    400092: peg02 1
+    400094: peg03
+    400096: peg04
+    400098: peg05
+    400100: peg06
+    400102: peg08
+    400104: peg09
+    400106: peg10
+    400108: peg11
+    400110: peg12
+    400112: peg13
+    400114: peg14
+    400116: peg15
+    400118: peg16
+    400120: peg17
+    400122: peg18
+    400124: peg19
+    400126: peg20
+    400128: peg21
+    400130: peg22
+    400132: peg23
+    400134: peg24
+    400136: peg25
+    400138: peg26
+    400140: peg27
+    400142: peg28
+    400144: peg29
+    400146: peg30
+    400148: peg_brd
+    400150: Pillar
+    400152: Pillar_d
+    400154: S01
+    400156: S02
+    400158: S03
+    400160: S04
+    400162: S05
+    400164: S06
+    400166: S07
+    400168: S08
+    400170: S09
+    400172: S10
+    400174: S11
+    400176: S13
+    400178: S14
+    400180: S15
+    400182: S16
+    400184: S17
+    400186: S18
+    400188: S19
+    400190: S20
+    400192: S21
+    400194: S22
+    400196: S23
+    400198: S24
+    400200: S25
+    400202: S26
+    400204: S27
+    400206: S28
+    400208: S29
+    400210: S30
+    400212: S_board
+    400214: S_box
+    400216: S_edge
+    400218: S_mid
+    400220: S_top
+    400222: Spot01
+    400224: Spot01.Target
+    400226: Stand01
+    400228: Stand02
+    400230: Stand03
+    400232: Stand04
+    400234: String12
+    400236: t_ peg01
+    400238: t_ peg02
+    400240: t_ peg03
+    400242: t_ peg04
+    400244: t_ peg05
+    400246: t_ peg06
+    400248: t_ peg07
+    400250: t_ peg08
+    400252: t_ peg09
+    400254: t_ peg10
+    400256: t_ peg11
+    400258: t_ peg12
+    400260: t_ peg13
+    400262: t_ peg14
+    400264: t_ peg15
+    400266: t_ peg16
+    400268: t_ peg17
+    400270: t_ peg18
+    400272: t_ peg19
+    400274: t_ peg20
+    400276: t_ peg21
+    400278: t_ peg22
+    400280: t_ peg23
+    400282: t_ peg24
+    400284: t_ peg25
+    400286: t_ peg26
+    400288: t_ peg27
+    400290: t_ peg28
+    400292: t_ peg29
+    400294: t_ peg30
+    2300000: H_curve
+    2300002: H_end
+    2300004: mark01
+    2300006: Mark02
+    2300008: Mark03
+    2300010: Mark04
+    2300012: Mark05
+    2300014: Mark06
+    2300016: Mark07
+    2300018: Mark08
+    2300020: Mark09
+    2300022: Mark10
+    2300024: Mark11
+    2300026: Mark12
+    2300028: Mark13
+    2300030: Mark14
+    2300032: Mark15
+    2300034: Mark16
+    2300036: Mark17
+    2300038: Mark18
+    2300040: Mark19
+    2300042: Mark20
+    2300044: Mark21
+    2300046: Mark22
+    2300048: Mark23
+    2300050: Mark24
+    2300052: Mark25
+    2300054: Mark26
+    2300056: Mark27
+    2300058: Mark28
+    2300060: Mark29
+    2300062: Mark30
+    2300064: 'Nut01 '
+    2300066: 'Nut02 '
+    2300068: 'Nut03 '
+    2300070: 'Nut04 '
+    2300072: peg01
+    2300074: peg02
+    2300076: peg02 1
+    2300078: peg03
+    2300080: peg04
+    2300082: peg05
+    2300084: peg06
+    2300086: peg08
+    2300088: peg09
+    2300090: peg10
+    2300092: peg11
+    2300094: peg12
+    2300096: peg13
+    2300098: peg14
+    2300100: peg15
+    2300102: peg16
+    2300104: peg17
+    2300106: peg18
+    2300108: peg19
+    2300110: peg20
+    2300112: peg21
+    2300114: peg22
+    2300116: peg23
+    2300118: peg24
+    2300120: peg25
+    2300122: peg26
+    2300124: peg27
+    2300126: peg28
+    2300128: peg29
+    2300130: peg30
+    2300132: peg_brd
+    2300134: Pillar
+    2300136: Pillar_d
+    2300138: S01
+    2300140: S02
+    2300142: S03
+    2300144: S04
+    2300146: S05
+    2300148: S06
+    2300150: S07
+    2300152: S08
+    2300154: S09
+    2300156: S10
+    2300158: S11
+    2300160: S13
+    2300162: S14
+    2300164: S15
+    2300166: S16
+    2300168: S17
+    2300170: S18
+    2300172: S19
+    2300174: S20
+    2300176: S21
+    2300178: S22
+    2300180: S23
+    2300182: S24
+    2300184: S25
+    2300186: S26
+    2300188: S27
+    2300190: S28
+    2300192: S29
+    2300194: S30
+    2300196: S_board
+    2300198: S_box
+    2300200: S_edge
+    2300202: S_mid
+    2300204: S_top
+    2300206: Stand01
+    2300208: Stand02
+    2300210: Stand03
+    2300212: Stand04
+    2300214: String12
+    2300216: t_ peg01
+    2300218: t_ peg02
+    2300220: t_ peg03
+    2300222: t_ peg04
+    2300224: t_ peg05
+    2300226: t_ peg06
+    2300228: t_ peg07
+    2300230: t_ peg08
+    2300232: t_ peg09
+    2300234: t_ peg10
+    2300236: t_ peg11
+    2300238: t_ peg12
+    2300240: t_ peg13
+    2300242: t_ peg14
+    2300244: t_ peg15
+    2300246: t_ peg16
+    2300248: t_ peg17
+    2300250: t_ peg18
+    2300252: t_ peg19
+    2300254: t_ peg20
+    2300256: t_ peg21
+    2300258: t_ peg22
+    2300260: t_ peg23
+    2300262: t_ peg24
+    2300264: t_ peg25
+    2300266: t_ peg26
+    2300268: t_ peg27
+    2300270: t_ peg28
+    2300272: t_ peg29
+    2300274: t_ peg30
+    3300000: H_curve
+    3300002: H_end
+    3300004: mark01
+    3300006: Mark02
+    3300008: Mark03
+    3300010: Mark04
+    3300012: Mark05
+    3300014: Mark06
+    3300016: Mark07
+    3300018: Mark08
+    3300020: Mark09
+    3300022: Mark10
+    3300024: Mark11
+    3300026: Mark12
+    3300028: Mark13
+    3300030: Mark14
+    3300032: Mark15
+    3300034: Mark16
+    3300036: Mark17
+    3300038: Mark18
+    3300040: Mark19
+    3300042: Mark20
+    3300044: Mark21
+    3300046: Mark22
+    3300048: Mark23
+    3300050: Mark24
+    3300052: Mark25
+    3300054: Mark26
+    3300056: Mark27
+    3300058: Mark28
+    3300060: Mark29
+    3300062: Mark30
+    3300064: 'Nut01 '
+    3300066: 'Nut02 '
+    3300068: 'Nut03 '
+    3300070: 'Nut04 '
+    3300072: peg01
+    3300074: peg02
+    3300076: peg02 1
+    3300078: peg03
+    3300080: peg04
+    3300082: peg05
+    3300084: peg06
+    3300086: peg08
+    3300088: peg09
+    3300090: peg10
+    3300092: peg11
+    3300094: peg12
+    3300096: peg13
+    3300098: peg14
+    3300100: peg15
+    3300102: peg16
+    3300104: peg17
+    3300106: peg18
+    3300108: peg19
+    3300110: peg20
+    3300112: peg21
+    3300114: peg22
+    3300116: peg23
+    3300118: peg24
+    3300120: peg25
+    3300122: peg26
+    3300124: peg27
+    3300126: peg28
+    3300128: peg29
+    3300130: peg30
+    3300132: peg_brd
+    3300134: Pillar
+    3300136: Pillar_d
+    3300138: S01
+    3300140: S02
+    3300142: S03
+    3300144: S04
+    3300146: S05
+    3300148: S06
+    3300150: S07
+    3300152: S08
+    3300154: S09
+    3300156: S10
+    3300158: S11
+    3300160: S13
+    3300162: S14
+    3300164: S15
+    3300166: S16
+    3300168: S17
+    3300170: S18
+    3300172: S19
+    3300174: S20
+    3300176: S21
+    3300178: S22
+    3300180: S23
+    3300182: S24
+    3300184: S25
+    3300186: S26
+    3300188: S27
+    3300190: S28
+    3300192: S29
+    3300194: S30
+    3300196: S_board
+    3300198: S_box
+    3300200: S_edge
+    3300202: S_mid
+    3300204: S_top
+    3300206: Stand01
+    3300208: Stand02
+    3300210: Stand03
+    3300212: Stand04
+    3300214: String12
+    3300216: t_ peg01
+    3300218: t_ peg02
+    3300220: t_ peg03
+    3300222: t_ peg04
+    3300224: t_ peg05
+    3300226: t_ peg06
+    3300228: t_ peg07
+    3300230: t_ peg08
+    3300232: t_ peg09
+    3300234: t_ peg10
+    3300236: t_ peg11
+    3300238: t_ peg12
+    3300240: t_ peg13
+    3300242: t_ peg14
+    3300244: t_ peg15
+    3300246: t_ peg16
+    3300248: t_ peg17
+    3300250: t_ peg18
+    3300252: t_ peg19
+    3300254: t_ peg20
+    3300256: t_ peg21
+    3300258: t_ peg22
+    3300260: t_ peg23
+    3300262: t_ peg24
+    3300264: t_ peg25
+    3300266: t_ peg26
+    3300268: t_ peg27
+    3300270: t_ peg28
+    3300272: t_ peg29
+    3300274: t_ peg30
+    4300000: Mark26
+    4300002: 'Nut01 '
+    4300004: 'Nut02 '
+    4300006: peg_brd
+    4300008: S_box
+    4300010: S_top
+    4300012: S_edge
+    4300014: S_mid
+    4300016: Pillar_d
+    4300018: Pillar
+    4300020: 'Nut03 '
+    4300022: Stand03
+    4300024: 'Nut04 '
+    4300026: S30
+    4300028: t_ peg01
+    4300030: t_ peg28
+    4300032: t_ peg27
+    4300034: t_ peg26
+    4300036: t_ peg25
+    4300038: t_ peg24
+    4300040: t_ peg23
+    4300042: t_ peg22
+    4300044: t_ peg21
+    4300046: t_ peg20
+    4300048: t_ peg19
+    4300050: t_ peg18
+    4300052: t_ peg17
+    4300054: t_ peg16
+    4300056: t_ peg15
+    4300058: t_ peg14
+    4300060: t_ peg13
+    4300062: t_ peg12
+    4300064: t_ peg11
+    4300066: t_ peg10
+    4300068: t_ peg09
+    4300070: t_ peg08
+    4300072: t_ peg07
+    4300074: t_ peg06
+    4300076: t_ peg05
+    4300078: t_ peg04
+    4300080: t_ peg03
+    4300082: t_ peg02
+    4300084: t_ peg29
+    4300086: t_ peg30
+    4300088: mark01
+    4300090: Mark02
+    4300092: Mark03
+    4300094: Mark04
+    4300096: Mark05
+    4300098: Mark06
+    4300100: Mark07
+    4300102: Mark08
+    4300104: Mark09
+    4300106: Mark10
+    4300108: Mark11
+    4300110: Mark12
+    4300112: Mark13
+    4300114: Mark14
+    4300116: Mark15
+    4300118: Mark16
+    4300120: Mark17
+    4300122: Mark18
+    4300124: Mark19
+    4300126: Mark20
+    4300128: Mark21
+    4300130: Mark22
+    4300132: Mark23
+    4300134: Mark24
+    4300136: Mark25
+    4300138: peg04
+    4300140: Mark27
+    4300142: Mark28
+    4300144: Mark29
+    4300146: Mark30
+    4300148: S29
+    4300150: S_board
+    4300152: H_end
+    4300154: peg30
+    4300156: peg29
+    4300158: peg28
+    4300160: peg27
+    4300162: peg26
+    4300164: peg25
+    4300166: peg24
+    4300168: peg23
+    4300170: peg22
+    4300172: peg21
+    4300174: peg20
+    4300176: peg19
+    4300178: peg18
+    4300180: peg17
+    4300182: peg16
+    4300184: peg15
+    4300186: peg14
+    4300188: peg13
+    4300190: peg12
+    4300192: peg11
+    4300194: peg10
+    4300196: peg09
+    4300198: peg08
+    4300200: peg06
+    4300202: peg05
+    4300204: String12
+    4300206: peg03
+    4300208: peg02
+    4300210: peg02
+    4300212: peg01
+    4300214: S01
+    4300216: S02
+    4300218: S03
+    4300220: S04
+    4300222: S05
+    4300224: S06
+    4300226: S07
+    4300228: S08
+    4300230: S09
+    4300232: S10
+    4300234: S11
+    4300236: S20
+    4300238: S13
+    4300240: S14
+    4300242: S15
+    4300244: S16
+    4300246: S17
+    4300248: S18
+    4300250: S19
+    4300252: S24
+    4300254: S21
+    4300256: S22
+    4300258: S23
+    4300260: S25
+    4300262: S26
+    4300264: S27
+    4300266: S28
+    4300268: H_curve
+    4300270: Stand01
+    4300272: Stand02
+    4300274: Stand04
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
